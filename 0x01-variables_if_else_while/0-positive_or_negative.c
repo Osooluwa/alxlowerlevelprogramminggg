@@ -4,7 +4,6 @@
 
 /**
  * main - assign a random number to the integer n 
- *
  * executes and prints it
  *
  * Return: Always 0 (Success)
